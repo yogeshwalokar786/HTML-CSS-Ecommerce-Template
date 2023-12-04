@@ -42,5 +42,5 @@ To explore and run the project locally, follow these steps:
 
 If you've found value in the Ecommerce Template and want to fuel future developments, consider buying me a coffee. Your gesture is not just a caffeine boost; it's a vote of confidence in the continuous improvement of this resource for the entire web development community.
 
-[![Buy Me a Coffee]-https://www.buymeacoffee.com/yogeshwalokar/e/189525
+[Buy Me a Coffee]-https://www.buymeacoffee.com/yogeshwalokar/e/189525
 
