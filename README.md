@@ -42,7 +42,5 @@ To explore and run the project locally, follow these steps:
 
 If you've found value in the Ecommerce Template and want to fuel future developments, consider buying me a coffee. Your gesture is not just a caffeine boost; it's a vote of confidence in the continuous improvement of this resource for the entire web development community.
 
-[![Buy Me a Coffee][(link_to_your_buymeacoffee_button_image)](https://www.buymeacoffee.com/yogeshwalokar/e/189525)https://www.buymeacoffee.com/yogeshwalokar/e/189525]
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="yogeshwalokar" data-color="#FFDD00" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
-
+[![Buy Me a Coffee]-https://www.buymeacoffee.com/yogeshwalokar/e/189525
 
